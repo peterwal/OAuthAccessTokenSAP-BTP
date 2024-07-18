@@ -1,5 +1,6 @@
 # OAuthAccessTokenSAP-BTP
 Java Script to get OAuth access token from SAP BTP using Postman
+when running a request
 
 This script helps you run a request and get the OAuth access token in one
 go. This script has to be maintained in your Postman "Collection" and therefore
